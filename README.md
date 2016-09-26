@@ -1,2 +1,2 @@
-# hello
-hello World
+Hi This is Thousif 
+This is my first git project
